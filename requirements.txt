@@ -1,0 +1,8 @@
+numpy
+opencv2-python
+pillow
+gradio
+ultralytics
+rapidocr
+matplotlib
+onnxruntime
