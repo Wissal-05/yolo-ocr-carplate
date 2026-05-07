@@ -1,1 +1,1 @@
-# yolo-ocr-carplate
+# Projet YOLO + OCR pour deteter les plaques d'immatriculation
